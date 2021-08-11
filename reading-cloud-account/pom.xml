@@ -8,7 +8,6 @@
         <version>1.0.0</version>
     </parent>
 
-    <groupId>cn.zealon</groupId>
     <artifactId>reading-cloud-account</artifactId>
     <version>1.0.0</version>
     <name>reading-cloud-account</name>
